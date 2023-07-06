@@ -74,6 +74,14 @@
   }
 }
 
+/* Mobile */
+@media (max-width: 480px) { 
+  .reports {
+    grid-template-columns: 1fr;
+    -ms-grid-columns: 1fr;
+  }
+}
+
 .reports_info {
   color: #B1B1B1;
 }
