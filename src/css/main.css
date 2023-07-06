@@ -73,3 +73,7 @@
     -ms-grid-columns: 1fr 30px 1fr;
   }
 }
+
+.reports_info {
+  color: #B1B1B1;
+}
